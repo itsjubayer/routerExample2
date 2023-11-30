@@ -1,0 +1,50 @@
+[{
+    "id":1,
+    "name": "Chevy",
+    "price": 15000,
+    "year":2015,
+    "contact":{
+        "dealer":"Laith",
+        "number":"111-111-1111"
+    }
+},
+{
+    "id":2,
+    "name": "Chevy1",
+    "price": 15700,
+    "year":2017,
+    "contact":{
+        "dealer":"Laith1",
+        "number":"111-188-1111"
+    }
+},
+{
+    "id":3,
+    "name": "Chevy2",
+    "price": 15400,
+    "year":2012,
+    "contact":{
+        "dealer":"Laith3",
+        "number":"111-999-1111"
+    }
+},
+{
+    "id":4,
+    "name": "Chevy3",
+    "price": 15100,
+    "year":2011,
+    "contact":{
+        "dealer":"Laith4",
+        "number":"111-111-9999"
+    }
+},
+{
+    "id":5,
+    "name": "Chevy4",
+    "price": 15800,
+    "year":2019,
+    "contact":{
+        "dealer":"Laith5",
+        "number":"111-111-7777"
+    }
+}]
